@@ -25,13 +25,13 @@ void varshi(String x,String y)
 {
 	System.out.println("Varshi added this method")
 
-void sub(int x, int y)  //adding two integers
+void sub(int x, int y)  //adding two integers 
   {
-    System.out.println("Sub of two numbers: " + (x-y));
+    System.out.println("Sub of two numbers: " + (x-y)); //(Done by Vinolisha)
   }
 void multi(int x, int y)  //adding two integers
   {
-    System.out.println("Multiple of two numbers: " + (x*y));
+    System.out.println("Multiple of two numbers: " + (x*y));//(Done By Vinolisha)
   }
  void vignesh(int x, int y)  //adding two integers
   {
