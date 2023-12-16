@@ -11,4 +11,10 @@ void surya(String x, String y)  //concat two string
   {
     System.out.println("Surya added this method");
   }
+void varshi(String x,String y)
+{
+	System.out.println("Varshi added this method")
 }
+void varshi1(String x,String y){
+	System.out,println("Varshi 1 added this method")
+
