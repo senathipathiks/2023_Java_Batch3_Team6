@@ -35,11 +35,11 @@ void multi(int x, int y)  //adding two integers
   }
  void vignesh(int x, int y)  //adding two integers
   {
-    System.out.println("Modified by vicky: " &x+y);
+    System.out.println("Modified by vicky: " &x+y); //(Done By Vignesh)
   }
  void FirstVisgnesh(int x, int y)  //adding two integers
   {
-    System.out.println("Modified by vicky: " &x+y);
+    System.out.println("Modified by vicky: " &x+y); //(Done By Vignesh)
  }
 void varshi1(String x,String y){
 	System.out,println("Varshi 1 added this method");
