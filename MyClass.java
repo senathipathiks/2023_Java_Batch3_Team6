@@ -33,8 +33,15 @@ void multi(int x, int y)  //adding two integers
   {
     System.out.println("Multiple of two numbers: " + (x*y));
   }
-
-}
+ void vignesh(int x, int y)  //adding two integers
+  {
+    System.out.println("Modified by vicky: " &x+y);
+  }
+ void FirstVisgnesh(int x, int y)  //adding two integers
+  {
+    System.out.println("Modified by vicky: " &x+y);
+ }
 void varshi1(String x,String y){
-	System.out,println("Varshi 1 added this method")
-
+	System.out,println("Varshi 1 added this method");
+}
+}
