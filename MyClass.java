@@ -23,7 +23,7 @@ void surya(String x, String y)  //concat two string
 
 void varshi(String x,String y)
 {
-	System.out.println("Varshi added this method")
+	System.out.println("Varshi added this method")//(Done by Varshinee)
 
 void sub(int x, int y)  //adding two integers 
   {
@@ -42,6 +42,7 @@ void multi(int x, int y)  //adding two integers
     System.out.println("Modified by vicky: " &x+y);
  }
 void varshi1(String x,String y){
-	System.out,println("Varshi 1 added this method");
+	System.out,println("Varshi 1 added this method");//(Done by varshinee)
 }
 }
+
