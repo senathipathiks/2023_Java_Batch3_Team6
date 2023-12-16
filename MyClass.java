@@ -20,6 +20,11 @@ void surya(String x, String y)  //concat two string
   {
     System.out.println("Surya added this method");
   }
+
+void varshi(String x,String y)
+{
+	System.out.println("Varshi added this method")
+
 void sub(int x, int y)  //adding two integers
   {
     System.out.println("Sub of two numbers: " + (x-y));
@@ -35,5 +40,8 @@ void multi(int x, int y)  //adding two integers
  void FirstVisgnesh(int x, int y)  //adding two integers
   {
     System.out.println("Modified by vicky: " &x+y);
-  }
+ }
+void varshi1(String x,String y){
+	System.out,println("Varshi 1 added this method");
+}
 }
