@@ -42,7 +42,7 @@ void multi(int x, int y)  //adding two integers
     System.out.println("Modified by vicky: " &x+y);
  }
 void varshi1(String x,String y){
-	System.out,println("Varshi 1 added this method");//(Done by varshinee)
+	System.out,println("Varshi 1 added this method");//(Done by varshinee1)
 }
 }
 
