@@ -28,4 +28,12 @@ void multi(int x, int y)  //adding two integers
   {
     System.out.println("Multiple of two numbers: " + (x*y));
   }
+ void vignesh(int x, int y)  //adding two integers
+  {
+    System.out.println("Modified by vicky: " &x+y);
+  }
+ void FirstVisgnesh(int x, int y)  //adding two integers
+  {
+    System.out.println("Modified by vicky: " &x+y);
+  }
 }
